@@ -1,4 +1,6 @@
 <?xml version="1.0"?>
-<version>0008</version>
-<apiChanged>true</apiChanged>
-<desktopChanged>true</desktopChanged>
+<info>
+  <version>0008</version>
+  <apiChanged>true</apiChanged>
+  <desktopChanged>true</desktopChanged>
+</info>
