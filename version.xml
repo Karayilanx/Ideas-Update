@@ -1,8 +1,8 @@
 <?xml version="1.0"?>
 <info>
   <version>0024</version>
-  <terminalVersion>0023</version>
-  <terminalForceUpdate>true</version>
+  <terminalVersion>0023</terminalVersion>
+  <terminalForceUpdate>true</terminalForceUpdate>
   <apiChanged>true</apiChanged>
   <desktopChanged>true</desktopChanged>
 </info>
