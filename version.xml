@@ -5,5 +5,5 @@
   <terminalForceUpdate>true</terminalForceUpdate>
   <apiChanged>true</apiChanged>
   <desktopChanged>true</desktopChanged>
-  <forceUpdate>true</forceUpdate>
+  <forceUpdate>false</forceUpdate>
 </info>
